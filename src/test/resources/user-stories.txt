@@ -1,0 +1,13 @@
+Aplikacja „ZBODIFY” odtwarzacz muzyki
+As a user
+ I want to be able to create my own playlist
+So that I can easily find my favorite music.
+As an user
+ I want to be able to se how many people liked my playlist
+So that I can see how popular I am.
+As a user
+ I want to be able to play the music in the background on my phone
+So that I can still use my phone.
+As a user
+ I want to be able to pause and play vie Bluetooth connected devices
+So that I don’t have to get my phone out of my pocket.
